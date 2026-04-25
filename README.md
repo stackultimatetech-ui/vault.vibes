@@ -1,1 +1,1 @@
-# vault.vibes
+vix.vault
